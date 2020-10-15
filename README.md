@@ -16,3 +16,9 @@ These information are collected for 60,000+ Movies/TV Shows.
 The Dataset has **60025** rows and **9** columns
 
 To Understand it in detail go to [IMDB-Movies.ipynb](https://github.com/parthshah28/Data_Extraction_of_Movies/blob/main/IMDB-Movies.ipynb)
+
+
+## Data Visualization:
+
+
+![](https://github.com/parthshah28/Data_Extraction_of_Movies/blob/main/images/IMDB.gif)
